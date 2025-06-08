@@ -117,7 +117,21 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Welcome to GuardianBridge – Your Trusted Partner in USDT/ERC20 Escrow Trade
+
+At GuardianBridge, we specialize in providing a secure, neutral, and transparent escrow service tailored specifically for USDT (ERC20) transactions. In the fast-moving world of digital asset trading, trust and security are paramount. Our platform acts as a reliable intermediary between transacting parties, ensuring that funds are safely held in escrow until all agreed terms are met.
+
+With a focus on compliance, confidentiality, and professional handling, GuardianBridge is designed to mitigate risk and eliminate fraud from peer-to-peer cryptocurrency exchanges. Whether you’re buying or selling, our structured process offers peace of mind and accountability throughout the entire transaction.
+
+Why Choose GuardianBridge?
+ • ✅ Independent third-party holding of USDT/ERC20 assets
+ • ✅ Step-by-step verification and confirmation from both parties
+ • ✅ Immediate release of funds upon agreement fulfillment
+ • ✅ Professional dispute resolution and support
+ • ✅ Trusted for high-value and international transactions
+
+Secure your trades with confidence.
+Trade the smart way—with GuardianBridge.</p>
           </div>
         `
         break
