@@ -117,21 +117,34 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Welcome to GuardianBridge – Your Trusted Partner in USDT/ERC20 Escrow Trade
+            <p>🌟 Welcome to Demi Lovato’s Official Fan & Investment Support Portal 🌟
 
-At GuardianBridge, we specialize in providing a secure, neutral, and transparent escrow service tailored specifically for USDT (ERC20) transactions. In the fast-moving world of digital asset trading, trust and security are paramount. Our platform acts as a reliable intermediary between transacting parties, ensuring that funds are safely held in escrow until all agreed terms are met.
+We’re so glad you made it here.
+This is the only verified platform managed directly by Demi Lovato’s authorized administrative team—created to connect fans with real opportunities, exclusive support, and trusted information.
 
-With a focus on compliance, confidentiality, and professional handling, GuardianBridge is designed to mitigate risk and eliminate fraud from peer-to-peer cryptocurrency exchanges. Whether you’re buying or selling, our structured process offers peace of mind and accountability throughout the entire transaction.
+Here’s what you’ll find on this platform:
 
-Why Choose GuardianBridge?
- • ✅ Independent third-party holding of USDT/ERC20 assets
- • ✅ Step-by-step verification and confirmation from both parties
- • ✅ Immediate release of funds upon agreement fulfillment
- • ✅ Professional dispute resolution and support
- • ✅ Trusted for high-value and international transactions
+💳 Official Membership Card Program
+Apply for Demi’s personal fan membership card to unlock private access to exclusive updates, events, and bonus offers directly from her organization.
 
-Secure your trades with confidence.
-Trade the smart way—with GuardianBridge.</p>
+🎙️ Live Financial Sessions & Giveaways
+Stay tuned for special financial empowerment sessions, live events, and surprise giveaways — because Demi believes in lifting her fans up, not leaving them behind.
+
+🤝 Direct Fan Assistance
+Need support? Whether you're looking for guidance, help, or an opportunity to receive financial support, we’ve created this space to make it possible, transparent, and easy to reach us.
+
+💠 Crypto & Financial Investments
+Explore powerful, secure, and personally approved cryptocurrency investment opportunities supported by Demi’s team. Whether you’re new or experienced, you’ll find helpful options built for fans ready to grow.
+
+🔒 Secure & Verified Access Only
+Everything here is monitored and operated only by Demi Lovato’s approved representatives. No third-party access. No false promises. Just genuine support and real opportunities.
+
+ “I’ve been through a lot—but giving back, helping others rise, is what matters most to me.” — Demi Lovato
+
+
+
+Take your time, explore the site, and know that you’re always welcome here. Our team is ready whenever you are.
+</p>
           </div>
         `
         break
